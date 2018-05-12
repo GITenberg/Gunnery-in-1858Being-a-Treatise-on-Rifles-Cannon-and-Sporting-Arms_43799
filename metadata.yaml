@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42413
     wikipedia: https://en.wikipedia.org/wiki/William_Greener
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43799#Gunnery-in-1858Being-a-Treatise-on-Rifles-Cannon-and-Sporting-Arms
 gutenberg_issued: '2013-09-23'
 gutenberg_type: Text
 identifiers:
